@@ -1,0 +1,22 @@
+[
+  {
+    "id": "d1",
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Cardiologist",
+    "degrees": "MBBS, FCPS",
+    "rating": 4.8,
+    "availableTime": ["5 PM", "7 PM"],
+    "fee": "$50",
+    "location": "2.5 km away"
+  },
+  {
+    "id": "d2",
+    "name": "Dr. Ahmed Ali",
+    "specialty": "Dermatologist",
+    "degrees": "MBBS, MD",
+    "rating": 4.6,
+    "availableTime": ["3 PM", "6 PM"],
+    "fee": "$40",
+    "location": "3 km away"
+  }
+]
